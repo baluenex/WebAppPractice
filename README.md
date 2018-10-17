@@ -1,0 +1,2 @@
+# WebAppPractice
+Djangoアプリケーションの練習
